@@ -8,10 +8,12 @@ Files Included:
 
 --> EDA 
 
---> Logistic Regression Model 
+--> Logistic Regression 
 
 --> Decision Tree 
 
 --> Random Forest 
 
---> Gradient Boosting (XGboosting)
+--> Gradient Boosting 
+
+--> XG Boosting
